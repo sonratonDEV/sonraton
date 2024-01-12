@@ -9,5 +9,3 @@ See more my profile form Linkedin:
 
 [Email 📬](sonraton.n@gmail.com)
 
-
-<p align="center"><a><img src="[https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C]" width="400" alt="Logo"></a></p>
