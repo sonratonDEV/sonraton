@@ -9,4 +9,5 @@ See more my profile form Linkedin:
 
 [Email 📬](sonraton.n@gmail.com)
 
-Telegram Gmail LinkedIn adamalston.com
+
+<p align="center"><a><img src="[https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C" width="400" alt="Laravel Logo"></a></p>
